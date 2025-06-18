@@ -109,3 +109,4 @@ void loop()
   SOH_Calc();
   capacity = capacity*(R/Ro);//Capacity of battery degrades over time.
  }
+//https://github.com/ShreyasMaitreya/Battery-Management-System
